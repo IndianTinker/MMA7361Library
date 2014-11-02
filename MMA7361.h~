@@ -29,7 +29,7 @@ class Acc
     int _pinY;
     int _pinZ;
     float val2v(int v);
-    float val2g(int v,gsel);	
+    float val2g(int v);	
 	
 };
 

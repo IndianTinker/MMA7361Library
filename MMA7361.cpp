@@ -1,3 +1,12 @@
+
+/* 
+  MMA7361.h - Library to play with the MMA7361 3 Axis Accelerometer by Freescale
+  Created by Rohit Gupta(@rohit7gupta) on 2nd Nov 2014 in Pune India
+  MIT License
+  PS: Pull up on sleep pin if not logically wired to arduino!
+
+*/
+
 #include "MMA7361.h"
 #include "Arduino.h"
 

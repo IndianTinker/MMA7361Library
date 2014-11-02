@@ -1,7 +1,7 @@
 /*
   MMA7361.h - Library to play with the MMA7361 3 Axis Accelerometer by Freescale
-  Created by Rohit Gupta on 2nd Nov 2014 in Pune India
-  MIT Liscence
+  Created by Rohit Gupta(@rohit7gupta) on 2nd Nov 2014 in Pune India
+  MIT License
 */
 #ifndef MMA7361_h
 #define MMA7361_h
